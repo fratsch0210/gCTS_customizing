@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "RCOMP":"ZS2",
+    "NAME1":"fratsch0210",
+    "CNTRY":"DE",
+    "NAME2":"fratsch0210",
+    "LANGU":"E",
+    "STRET":"Hasso-Street 01",
+    "POBOX":"",
+    "PSTLC":"",
+    "CITY":"WDF",
+    "CURR":"EUR",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
